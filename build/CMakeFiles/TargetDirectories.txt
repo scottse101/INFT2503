@@ -1,4 +1,0 @@
-/Users/scottse/Desktop/INFT2503 - C++ for programmerere/exercises/build/CMakeFiles/Solution1.dir
-/Users/scottse/Desktop/INFT2503 - C++ for programmerere/exercises/build/CMakeFiles/ReadTemperatures.dir
-/Users/scottse/Desktop/INFT2503 - C++ for programmerere/exercises/build/CMakeFiles/edit_cache.dir
-/Users/scottse/Desktop/INFT2503 - C++ for programmerere/exercises/build/CMakeFiles/rebuild_cache.dir
